@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Anil Gaikwad
-
 ---
 
 ## 🚀 About Me
